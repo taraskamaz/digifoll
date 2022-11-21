@@ -1,0 +1,17 @@
+﻿  MyForm.cpp
+C:\Users\Student\Desktop\сутырин экз\Project1\MyForm.h(136,8): error C2065: textbox1: необъявленный идентификатор
+C:\Users\Student\Desktop\сутырин экз\Project1\MyForm.h(138,5): error C2065: textbox4: необъявленный идентификатор
+C:\Users\Student\Desktop\сутырин экз\Project1\MyForm.h(141,9): error C2065: Textbox2: необъявленный идентификатор
+C:\Users\Student\Desktop\сутырин экз\Project1\MyForm.h(143,6): error C2065: textbox4: необъявленный идентификатор
+C:\Users\Student\Desktop\сутырин экз\Project1\MyForm.h(146,1): error C2059: синтаксическая ошибка: }
+C:\Users\Student\Desktop\сутырин экз\Project1\MyForm.h(148,5): error C2065: textbox4: необъявленный идентификатор
+C:\Users\Student\Desktop\сутырин экз\Project1\MyForm.h(150,1): error C2181: недопустимый else без парного if
+C:\Users\Student\Desktop\сутырин экз\Project1\MyForm.h(152,5): error C2065: textbox: необъявленный идентификатор
+C:\Users\Student\Desktop\сутырин экз\Project1\MyForm.cpp(4,25): error C2871: project1: пространство имен с таким именем не существует
+C:\Users\Student\Desktop\сутырин экз\Project1\MyForm.cpp(7,5): error C2653: Application: не является именем класса или пространства имен
+C:\Users\Student\Desktop\сутырин экз\Project1\MyForm.cpp(7,18): error C3861: EnableVisualStyles: идентификатор не найден
+C:\Users\Student\Desktop\сутырин экз\Project1\MyForm.cpp(8,5): error C2653: Application: не является именем класса или пространства имен
+C:\Users\Student\Desktop\сутырин экз\Project1\MyForm.cpp(8,18): error C3861: SetCompatibleTextRenderingDefault: идентификатор не найден
+C:\Users\Student\Desktop\сутырин экз\Project1\MyForm.cpp(9,5): error C2653: Application: не является именем класса или пространства имен
+C:\Users\Student\Desktop\сутырин экз\Project1\MyForm.cpp(9,34): error C2061: синтаксическая ошибка: идентификатор "MyForm"
+C:\Users\Student\Desktop\сутырин экз\Project1\MyForm.cpp(9,18): error C3861: Run: идентификатор не найден
